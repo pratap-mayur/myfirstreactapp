@@ -4,4 +4,3 @@ public class sum{
         int b=6;
         System.out.println(a+b);
     }
-}
